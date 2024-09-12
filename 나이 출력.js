@@ -9,5 +9,4 @@
 
 function solution(age) {
     return 2022 - age + 1;
-    // return 2023 - age; 으로도 가능
 }
