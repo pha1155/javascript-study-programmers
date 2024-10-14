@@ -16,3 +16,5 @@ n	result
 function solution(n) {
     return Math.ceil(n / 7);
 }
+
+// Math.ceil() 정적 메서드는 언제나 올림하여 주어진 숫자보다 크거나 같은 가장 작은 정수를 반환합니다.
